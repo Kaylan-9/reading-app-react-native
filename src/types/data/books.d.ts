@@ -1,3 +1,5 @@
+import Images from "./images";
+
 export interface IBookUserCategories {
   id: number;
   title: string;
